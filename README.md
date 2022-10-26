@@ -6,6 +6,8 @@
 
 ![Aryel GitHub stats](https://github-readme-stats.vercel.app/api?username=aryelzx&show_icons=true&theme=dark)
 
+
+
 ## Technologies I use in my daily life
 <div style="display: inline_block"><br/>
 
@@ -21,4 +23,6 @@
 <img align="center" alt="TYPESCRIPT"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## Passionate about programming, trying to be better and better. 💙
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryelzx)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
