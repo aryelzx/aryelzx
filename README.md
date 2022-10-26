@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @aryelzx
-- 👀 I’m interested in studying
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me e-mail: aryelcordeiro102@gmail.com
+### Hello! I'm Aryel Cordeiro Ramos Gonçalves. 👻
 
-<!---
-aryelzx/aryelzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryel-ramos-a5871922a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=VpCqJTCpjshSspCzVMkfVtJlnDvlMHMRHMgmVsPxNsswPKlBJFJQntDnlrFvtmDqzxtJsDG)
+
+
+![Aryel GitHub stats](https://github-readme-stats.vercel.app/api?username=aryelzx&show_icons=true&theme=dark)
+
+## Technologies I use in my daily life
+<div style="display: inline_block"><br/>
+
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="NODE"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " />
+</div>
+
+## Technologies I'm studying
+<div style="display: inline_block"><br/>
+<img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="TYPESCRIPT"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+## Passionate about programming, trying to be better and better. 💙
+</div>
