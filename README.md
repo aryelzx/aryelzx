@@ -6,7 +6,8 @@
 
 
 
-![Aryel GitHub stats](https://github-readme-stats.vercel.app/api?username=aryelzx&show_icons=true&theme=transparent)
+![Aryel GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryelzx&&show_icons=true&theme=dark)
+
 
 
 
