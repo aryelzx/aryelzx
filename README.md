@@ -11,21 +11,23 @@
 
 
 
-## Technologies I use in my daily life
+## Technologies \ Frameworks I use in my daily life
 <div style="display: inline_block"><br/>
 
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="TYPESCRIPT"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="NODE" src="https://img.shields.io/badge/SQL-FFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=black " />
+<img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " />
 </div>
 
-## Technologies I'm studying
+## Technologies \ Frameworks I'm studying
 <div style="display: inline_block"><br/>
-<img align="center" alt="NODE"src="https://img.shields.io/badge/SQL-43853D?style=for-the-badge&logo=sql.js&logoColor=white " />
-<img align="center" alt="NODE"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " />
-
+<img align="center" alt="Golang" src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
+<img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=vue.js&logoColor=green " />
+  
 ## Passionate about programming, trying to be better and better. 💙
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryelzx)](https://github.com/anuraghazra/github-readme-stats)
   
