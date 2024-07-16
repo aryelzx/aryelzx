@@ -28,8 +28,6 @@
 <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
 <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=vue.js&logoColor=green " />
   
-## Passionate about programming, trying to be better and better. 💙
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryelzx)](https://github.com/anuraghazra/github-readme-stats)
-  
+## Passionate about programming, trying to be better and better. 💙  
   
 </div>
